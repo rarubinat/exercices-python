@@ -17,15 +17,3 @@ Aclaraciones:
 
 - No consideres los espacios a la hora de determinar si un string es un palíndromo o no
 - "Ana" es un palíndromo, 'anA' también
-
-### Enviar solución
-
-Debes hacer un "Fork" de este proyecto, revolver los problemas y crear un Pull Request hacia este repositorio.
-
-### Contribuir
-
-Si alguien quiere agregar o mejorar algo, puede hacerlo directamente en este repositorio: [challenge-python-01](https://github.com/platzimaster/challenge-python-01/)
-
-### Licencia
-
-challenge-python-01 se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
